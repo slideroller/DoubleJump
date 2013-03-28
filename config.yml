@@ -1,0 +1,11 @@
+#                      Double Jump                      #
+# Double Jump is a plugin that will let you double jump #
+#      In this config you can set the Jump height!      # 
+
+Jump Height: 2
+Message On Jump: false
+Message: Jumped!
+Sound: true
+Effect On Jump: false
+Wall Jump: false
+Jump Forward: false
